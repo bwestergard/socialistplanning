@@ -3,7 +3,7 @@
 ---
 
 # Posts
-- [Review: People's Republic of Walmart](posts/review-peoples-republic.html)
+- [Review: People's Republic of Walmart](posts/review-peoples-republic)
 
 You can subscribe to future posts through <a href="./feed.rss">RSS</a> or <a href="https://twitter.com/socplanning">Twitter</a>.
 
@@ -11,7 +11,7 @@ You can subscribe to future posts through <a href="./feed.rss">RSS</a> or <a hre
 
 This blog explores socialist planning proposals and the strongest arguments for and against them. The point of view articulated here can be summarized in three points:
 
-1. Critiques of capitalism lose their force without appeal to some vision of socialist planning.
+1. Critiques of capitalist social relations lose their force without appeal to some vision of socialist planning.
 2. There is no vision of socialist planning that is both widely shared and compelling.
 3. The strongest arguments against the feasibility and desirability of the best models of socialist planning are much weaker than is commonly supposed.
 

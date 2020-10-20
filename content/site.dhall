@@ -411,7 +411,7 @@ let posts = [ review-peoples-republic ]
 
 let postFiles = List/map Post HtmlMap markdownify posts
 
-let createFrontpageLink = λ(p : Post) → "- [${p.title}](posts/${p.shortname}.html)"
+let createFrontpageLink = λ(p : Post) → "- [${p.title}](posts/${p.shortname})"
 
 let indexFile =
       { mapKey = "index.md"
@@ -430,7 +430,7 @@ let indexFile =
 
           This blog explores socialist planning proposals and the strongest arguments for and against them. The point of view articulated here can be summarized in three points:
 
-          1. Critiques of capitalism lose their force without appeal to some vision of socialist planning.
+          1. Critiques of capitalist social relations lose their force without appeal to some vision of socialist planning.
           2. There is no vision of socialist planning that is both widely shared and compelling.
           3. The strongest arguments against the feasibility and desirability of the best models of socialist planning are much weaker than is commonly supposed.
 
