@@ -44,7 +44,7 @@ let indexFile =
           # Posts
           ${Text/concatSep "\n" (List/map Post Text createFrontpageLink posts)}
 
-          You can subscribe to future posts through <a href="./feed.rss">RSS</a> or <a href="https://twitter.com/socplanning">Twitter</a>.
+          You can subscribe to future posts through <a href="./feed.rss">RSS</a> or <a href="https://twitter.com/socplanning">Twitter</a>. This site's repository is available on <a href="https://github.com/bwestergard/socialistplanning">Github</a>.
 
           # About
 
