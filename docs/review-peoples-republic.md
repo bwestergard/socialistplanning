@@ -1,7 +1,7 @@
 ---
 title: "Review: People's Republic of Walmart"
 author: Bjorn Westergard
-include-after: <div id="footer"><hr/><a href="review-peoples-republic.pdf">Download PDF</a></div>
+include-after: <div id="footer"><hr/><a href="../pdfs/review-peoples-republic.pdf">Download PDF</a></div>
 suppress-bibliography: true
 ---
 
