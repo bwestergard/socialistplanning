@@ -463,8 +463,8 @@ let createPostItem =
             <item>
                 <title>${p.title}</title>
                 <pubDate>$(date --rfc-email -d ${p.date})</pubDate>
-                <link>${websiteMetaData.baseUri}/${p.shortname}.html</link>
-                <guid>${websiteMetaData.baseUri}/${p.shortname}.html</guid>
+                <link>${websiteMetaData.baseUri}/${p.shortname}</link>
+                <guid>${websiteMetaData.baseUri}/${p.shortname}</guid>
                 <dc:creator>Bjorn Westergard</dc:creator>
             </item>
         ''

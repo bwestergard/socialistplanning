@@ -14,8 +14,8 @@ cat << EOF
     <item>
         <title>Review: People's Republic of Walmart</title>
         <pubDate>$(date --rfc-email -d 2019-09-06T20:00:00-0400)</pubDate>
-        <link>https://socialistplanning.org/review-peoples-republic.html</link>
-        <guid>https://socialistplanning.org/review-peoples-republic.html</guid>
+        <link>https://socialistplanning.org/review-peoples-republic</link>
+        <guid>https://socialistplanning.org/review-peoples-republic</guid>
         <dc:creator>Bjorn Westergard</dc:creator>
     </item>
 
