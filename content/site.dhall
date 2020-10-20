@@ -14,7 +14,7 @@ let markdownify =
             ---
             title: "${p.title}"
             author: Bjorn Westergard
-            include-after: <div id="footer"><hr/><a href="${p.shortname}.pdf">Download PDF</a></div>
+            include-after: <div id="footer"><hr/><a href="../pdfs/${p.shortname}.pdf">Download PDF</a></div>
             suppress-bibliography: true
             ---
 
