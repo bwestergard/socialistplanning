@@ -18,7 +18,7 @@ The obvious place to start is Ludwig von Mises' 1920 essay, _Die Wirtschaftsrech
 
 The title is generally translated as "Economic Calculation in the Socialist Commonwealth", but "Wirtschaftsrechnung" might just as well be translated as "economic reckoning". This is supported by the shared etymology of "rechnung" and "reckon", but I also prefer it because "reckoning", unlike "calculation", seems more inclusive of the humdrum, ad hoc, non-expert, a relatively atheoretical kinds of quantitative reasoning that Mises often seems to have in mind (e.g. the "reckoning" of a farmer deciding whether to replace a tractor).
 
-In this post, I'll try to summarize gist of the essay and the the context in which it was written. I'll refrain from discussing anticipations of Mises' arguments by other writers, his later work, or critical responses. I hope to discuss each of these topics in future posts.
+In this post, I'll try to summarize of the essay and the the context in which it was written. I'll refrain from discussing anticipations of Mises' arguments by other writers, his later work, or critical responses. I hope to discuss each of these topics in future posts.
 
 ## Historical context
 
