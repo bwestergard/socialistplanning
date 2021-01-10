@@ -27,7 +27,7 @@ RM=/bin/rm
 
 PANDOC=pandoc
 
-PANDOC_OPTIONS=--standalone --bibliography=bibliography.bib --csl=chicago-inline.csl
+PANDOC_OPTIONS=--standalone --bibliography=bibliography.bib --csl=chicago.csl
 
 PANDOC_HTML_OPTIONS=--to html5 --template=template.html
 PANDOC_PDF_OPTIONS=--include-after-body=/dev/null

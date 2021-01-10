@@ -6,13 +6,21 @@
     <description>Resources for envisioning socialism.</description>
     <language>en</language>
     <generator>Dhall</generator>
-    <lastBuildDate>Mon, 19 Oct 2020 22:53:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 09 Jan 2021 23:02:13 -0500</lastBuildDate>
 
     <item>
         <title>Review: People's Republic of Walmart</title>
         <pubDate>Fri, 06 Sep 2019 20:00:00 -0400</pubDate>
         <link>https://socialistplanning.org/review-peoples-republic</link>
         <guid>https://socialistplanning.org/review-peoples-republic</guid>
+        <dc:creator>Bjorn Westergard</dc:creator>
+    </item>
+
+    <item>
+        <title>Reckoning with Mises</title>
+        <pubDate>Thu, 07 Jan 2021 23:00:00 -0500</pubDate>
+        <link>https://socialistplanning.org/reckoning-with-mises</link>
+        <guid>https://socialistplanning.org/reckoning-with-mises</guid>
         <dc:creator>Bjorn Westergard</dc:creator>
     </item>
 

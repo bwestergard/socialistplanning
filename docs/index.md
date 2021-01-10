@@ -4,6 +4,7 @@
 
 # Posts
 - [Review: People's Republic of Walmart](posts/review-peoples-republic)
+- [Reckoning with Mises](posts/reckoning-with-mises)
 
 You can subscribe to future posts through <a href="./feed.rss">RSS</a> or <a href="https://twitter.com/socplanning">Twitter</a>. This site's repository is available on <a href="https://github.com/bwestergard/socialistplanning">Github</a>.
 

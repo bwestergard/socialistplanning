@@ -27,7 +27,7 @@ let Prelude = ./prelude-18.0.0.dhall
 let Text/concatSep = Prelude.Text.concatSep
 let List/map = Prelude.List.map
 
-let posts = [ ./posts/review-peoples-republic.dhall ]
+let posts = [ ./posts/review-peoples-republic.dhall, ./posts/reckoning-with-mises-part-one.dhall ]
 
 let postFiles = List/map Post HtmlMap markdownify posts
 

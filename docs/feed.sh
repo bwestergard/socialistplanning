@@ -19,6 +19,14 @@ cat << EOF
         <dc:creator>Bjorn Westergard</dc:creator>
     </item>
 
+    <item>
+        <title>Reckoning with Mises</title>
+        <pubDate>$(date --rfc-email -d 2021-01-07T23:00:00-0500)</pubDate>
+        <link>https://socialistplanning.org/reckoning-with-mises</link>
+        <guid>https://socialistplanning.org/reckoning-with-mises</guid>
+        <dc:creator>Bjorn Westergard</dc:creator>
+    </item>
+
 </channel>
 </rss>
 
