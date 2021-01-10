@@ -2,7 +2,7 @@
 , title = "Reckoning with Mises"
 , date = "2021-01-07T23:00:00-0500"
 , body = ''
-Have you heard of the "[socialist calculation debate](https://en.wikipedia.org/wiki/Socialist_calculation_debate)"? There are dozens of popular summaries of it, often expressly written to vindicate the doctrines of one political tendency or another. If you read a few of these, you will quickly notice they tend to repeat one of three stories about the debate:
+Have you heard of the "[socialist calculation debate](https://en.wikipedia.org/wiki/Socialist_calculation_debate)"? There are many brief essays intended to introduce a general audience to it, often expressly written to vindicate the doctrines of one political tendency or another. If you read a few of these, you will quickly notice they tend to repeat one of three stories about the debate:
 
 1. Austrian economists like [Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises) and [Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek) foresaw the problems a socialist society would encounter. In a few short years, the Soviet Union and its imitators in fact encountered precisely these problems. Despite this confirmation of the essentially validity of the Austrian perspective, many today persist in pursuing socialism (or policies tantamount to socialism) out of ignorance[^fee].
 
