@@ -18,7 +18,7 @@ The obvious place to start is Ludwig von Mises' 1920 essay, _Die Wirtschaftsrech
 
 The title is generally translated as "Economic Calculation in the Socialist Commonwealth", but "Wirtschaftsrechnung" might just as well be translated as "economic reckoning". This is supported by the shared etymology of "rechnung" and "reckon", but I also prefer it because "reckoning", unlike "calculation", seems more inclusive of the humdrum, ad hoc, non-expert, a relatively atheoretical kinds of quantitative reasoning that Mises often seems to have in mind (e.g. the "reckoning" of a farmer deciding whether to replace a tractor).
 
-In this post, I'll try to summarize of the essay and the the context in which it was written. I'll refrain from discussing anticipations of Mises' arguments by other writers, his later work, or critical responses. I hope to discuss each of these topics in future posts.
+In this post, I'll summarize the essay and provide a bit of context. I'll refrain from discussing anticipations of Mises' arguments by other writers, his later work, or critical responses. I hope to discuss each of these topics in future posts.
 
 ## Historical context
 
@@ -70,15 +70,11 @@ In the next few posts, I'll start walking through _Die Wirtschaftsrechnung..._ s
 
 [^neurath]: There are many interesting secondary points that I don't cover here, most importantly Mises' critique of [Otto Neurath](https://en.wikipedia.org/wiki/Otto_Neurath)'s "economy in kind", but those will have to wait until later posts.
 
-[^weber]: This was of course a central theme of Max Weber's work. Weber, like Mises, critiqued the work of [Otto Neurath](https://en.wikipedia.org/wiki/Otto_Neurath).
-
 [^fee]: See, for example: [Why Socialism Is Impossible](https://fee.org/articles/why-socialism-is-impossible/) by [Dr. Richard M. Ebeling](https://www.heartland.org/about-us/who-we-are/richard-ebeling), the "BB&T Distinguished Professor of Ethics and Free Enterprise Leadership" at [The Citadel](https://en.wikipedia.org/wiki/The_Citadel).
 
 [^prw]: A recent version of this story intended for a general audience can be found in @Phillips_Rozworski_2019. I've written [a review of that book for this blog](http://socialistplanning.org/posts/review-peoples-republic). A very sophisicated version can be found in @Cockshott_Cottrell_1993_calculation. This view of the debate informed Cockshott and Cottrell's detailed proposal for a "cybernetic" socialist planning mechanism, described in @Cockshott_Cottrell_1993_new_socialism.
 
-[^singledebate]: I'm using "debate" in the singular here, but one of the many points of contention about this literature is whether and how to periodize it.
-
-[^rationalities]: [@Mises_1920, p. 119] I've made some slight alterations to Anderson's translation, indicated in brackets. I believe these were simple typos.  
+[^singledebate]: I'm using "debate" in the singular here, but one of the many points of contention about this literature is whether and how to periodize it.  
 
 [^decline]: [@Mises_1920, p. 100]
 
