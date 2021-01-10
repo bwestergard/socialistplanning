@@ -74,7 +74,7 @@ In the next few posts, I'll start walking through _Die Wirtschaftsrechnung..._ s
 
 [^prw]: A recent version of this story intended for a general audience can be found in @Phillips_Rozworski_2019. I've written [a review of that book for this blog](http://socialistplanning.org/posts/review-peoples-republic). A very sophisicated version can be found in @Cockshott_Cottrell_1993_calculation. This view of the debate informed Cockshott and Cottrell's detailed proposal for a "cybernetic" socialist planning mechanism, described in @Cockshott_Cottrell_1993_new_socialism.
 
-[^singledebate]: I'm using "debate" in the singular here, but one of the many points of contention about this literature is whether and how to periodize it.  
+[^singledebate]: I'm using "debate" in the singular here, but one of the many points of contention about this literature is whether and how to periodize it into multiple debates.
 
 [^decline]: [@Mises_1920, p. 100]
 
