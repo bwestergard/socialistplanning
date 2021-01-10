@@ -67,7 +67,7 @@ In the next few posts, I'll start walking through _Die Wirtschaftsrechnung..._ s
 
 [^schumpterian]: The original version of this story can be found in [@Schumpeter_1932, Chapter XVI, "The Socialist Blueprint", p. 172]. Schumpeter's view of the debate seems to be one of the most popular. For more on Schumpter's complicated relationship with the Austrian school, see @Chancellor.
 
-[^efficiency]: A great deal turns on what exactly Mises means by "efficiency", which he does not discuss in this essay. From his other writings, it is clear that he wishes to defend a radically subjective concept of welfare (see [@ONeill_1998, Chapters 3 and 4]).
+[^efficiency]: A great deal turns on what exactly Mises means by "efficiency". Other than some allusions to earlier marginalist texts, we don't get much in the way of a definition of this key term. However, from his other writings, it is clear that he wishes to defend a radically subjective concept of welfare (see [@ONeill_1998, Chapters 3 and 4]).
 
 [^rivals]: I'm getting this emphasis on "rivalry" from [@Lavoie_1985, Chapter 3].
 
