@@ -45,7 +45,7 @@ For Mises, to leave the argument there was to miss a more fundamental issue. In 
 
 ## _Die Wirtschaftsrechnung..._ summarized
 
-The gist of Mises' essay can be summarized as follows[^neurath].
+This gist of Mises' essay is as follows[^neurath].
 
 In capitalist societies, those who wish to make money by producing goods or services can only acquire the specific means of production they require to do so (e.g. land, buildings, raw materials, machinery) by offering their current owners more than rivals[^rivals] who have alternative money-making plans for them.
 
