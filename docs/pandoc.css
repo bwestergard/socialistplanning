@@ -10,6 +10,8 @@
   }
   
   body {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
     color: #444;
     font-family: Georgia, serif;
     line-height: 1.7;
